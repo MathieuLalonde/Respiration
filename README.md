@@ -6,8 +6,8 @@ Animation SVG simple servant à calmer l'anxiété.
 
 ## Fichiers
 
-tp1_ex1.svg - Le fichier d'animation .svg
-tp1_ex1_ciel.jpg - L'image d'arrêre-plan utilisée par le script svg
+* tp1_ex1.svg - Le fichier d'animation .svg
+* tp1_ex1_ciel.jpg - L'image d'arrêre-plan utilisée par le script svg
 
 
 ## Utilisation
